@@ -1,0 +1,6 @@
+backend/crime_data.csv
+backend/venv
+frontend/node_modules
+frontend/.next
+node_modules
+*.zip
